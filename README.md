@@ -9,7 +9,7 @@ The Mutual NDA was drafted by the [Bonterms Open Source Forms Committee](https:/
 
 ## How to Use
 1. Have your lawyer **review** the Mutual NDA.
-2. On the **Cover Page**, fill in the blue defined terms, add the party names and make any proposed edits to the NDA in the space for “Additional Changes”.
+2. On the **Cover Page**, fill in the blue defined terms, add the party names and make any proposed edits to the NDA in the space for “Additional Changes”. For an example Cover Page, please visit the [Bonterms website](https://bonterms.com/#procedures).
 3. **Send** the Cover Page and NDA to your counter-party. Negotiate **only** the Cover Page.
 4. **Sign** and close.
 
