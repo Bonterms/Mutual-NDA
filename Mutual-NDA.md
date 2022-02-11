@@ -11,9 +11,9 @@
 
 5. **Permitted Disclosures**.
 
-  (a) _Representatives_. Recipient may disclose Confidential Information to its employees, agents, advisors, contractors and other representatives having a legitimate need to know for the Purpose, provided these representatives are bound by confidentiality obligations no less protective of Discloser than this NDA and Recipient remains responsible for their compliance with this NDA. Each party may also disclose the terms of this NDA, in confidence, to its current or prospective investors, lenders or acquirers.
+   - (a) _Representatives_. Recipient may disclose Confidential Information to its employees, agents, advisors, contractors and other representatives having a legitimate need to know for the Purpose, provided these representatives are bound by confidentiality obligations no less protective of Discloser than this NDA and Recipient remains responsible for their compliance with this NDA. Each party may also disclose the terms of this NDA, in confidence, to its current or prospective investors, lenders or acquirers.
 
-  (b) _Required by Law_. Recipient may disclose Confidential Information to the extent required by law, subpoena or court order, provided (to the extent legally permitted) it provides Discloser reasonable advance notice of the required disclosure and reasonably cooperates, at Discloser’s expense, with Discloser’s efforts to obtain confidential treatment for the Confidential Information.
+   - (b) _Required by Law_. Recipient may disclose Confidential Information to the extent required by law, subpoena or court order, provided (to the extent legally permitted) it provides Discloser reasonable advance notice of the required disclosure and reasonably cooperates, at Discloser’s expense, with Discloser’s efforts to obtain confidential treatment for the Confidential Information.
 
 6. **Term and Termination**. This NDA starts on the Effective Date and expires at the end of the Term of NDA. Either party may terminate this NDA for any or no reason upon notice to the other party. Recipient’s obligations relating to Confidential Information will survive for the Confidentiality Period, despite expiration or termination of this NDA.
 
