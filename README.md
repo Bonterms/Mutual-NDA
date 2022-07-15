@@ -2,7 +2,7 @@
 Best-practice, balanced, open source mutual non-disclosure agreement
 
 ## About Bonterms
-[Bonterms](https://bonterms.com/) provides best-practice, balanced, open source legal forms for the enterprise. Bonterms forms are standard forms that you modify as necessary for your transaction through a Cover Page. Make sure to have a lawyer review Bonterms forms before use in any circumstance.
+[Bonterms](https://bonterms.com/) provides balanced, open source legal forms for the enterprise. Bonterms forms are standard forms that you modify as necessary for your transaction through a Cover Page. Make sure to have a lawyer review Bonterms forms before use in any circumstance.
 
 ## How the Mutual NDA was Created
 The Mutual NDA was drafted by the [Bonterms Open Source Forms Committee](https://bonterms.com/committee/), progressing through four drafts over three months.
