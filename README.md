@@ -11,7 +11,7 @@ The Mutual NDA was drafted by the [Bonterms Open Source Forms Committee](https:/
 ## How to Use
 1. **Review** the NDA with your lawyer.
 2. **Prepare** your Cover Page ([example](https://bonterms.com/forms/mutual-nda-cover-page-example/)).
-- Identify the parties and Key Terms: Effective Date, Term of NDA, Confidentiality Period, Governing Law and Courts.
+- Identify the parties and **Key Terms**: Effective Date, Term of NDA, Confidentiality Period, Governing Law and Courts.
 - Propose any **Additional Terms** (additions to or modifications of the NDA).
 3. **Send** your Cover Page to your counterparty.
 - Add a cover note or try our [Explainer](https://bonterms.com/forms/mutual-nda-explainer/).
