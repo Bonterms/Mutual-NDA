@@ -1,17 +1,21 @@
 # Mutual-NDA
-Best-practice, balanced, open source mutual non-disclosure agreement
+Mutual Non-Disclosure Agreement for enterprise use.
+Balanced between the parties.
 
 ## About Bonterms
-[Bonterms](https://bonterms.com/) provides balanced, open source legal forms for the enterprise. Bonterms forms are standard forms that you modify as necessary for your transaction through a Cover Page. Make sure to have a lawyer review Bonterms forms before use in any circumstance.
+[Bonterms](https://bonterms.com/) is simplifying commercial contracting through Standard Agreements. Our enterprise Cloud Terms, DPA, SLA and Mutual NDA let the parties start from a balanced foundation and negotiate by Cover Page, not redlines. The Bonterms Platform will leverage our Standard Agreements to take collaborative dealmaking to the next level.
 
 ## How the Mutual NDA was Created
 The Mutual NDA was drafted by the [Bonterms Open Source Forms Committee](https://bonterms.com/committee/), progressing through four drafts over three months.
 
 ## How to Use
-1. Have your lawyer **review** the Mutual NDA.
-2. On the **Cover Page**, fill in the blue defined terms, add the party names and make any proposed edits to the NDA in the space for “Additional Changes”. For an example Cover Page, please visit the [Bonterms website](https://bonterms.com/#procedures).
-3. **Send** the Cover Page and NDA to your counter-party. Negotiate **only** the Cover Page.
-4. **Sign** and close.
+1. **Review** the NDA with your lawyer.
+2. **Prepare** your Cover Page ([example](https://bonterms.com/forms/mutual-nda-cover-page-example/)).
+- Identify the parties and Key Terms: Effective Date, Term of NDA, Confidentiality Period, Governing Law and Courts.
+- Propose any **Additional Terms** (additions to or modifications of the NDA).
+3. **Send** your Cover Page to your counterparty.
+- Add a cover note or try our [Explainer](https://bonterms.com/forms/mutual-nda-explainer/).
+4. **Sign** the Cover Page and create your **NDA**!
 
 ## Open Source
 The Mutual NDA and all other standard Bonterms forms are free to use under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).
