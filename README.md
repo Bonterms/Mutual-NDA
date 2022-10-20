@@ -18,7 +18,7 @@ The Mutual NDA was drafted by the [Bonterms Open Source Forms Committee](https:/
 4. **Sign** the Cover Page and create your **NDA**!
 
 ## Open Source
-The Mutual NDA and all other standard Bonterms forms are free to use under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).
+The Mutual NDA and all other Bonterms Standard Agreements are free to use under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).
 
 ## Feedback or questions?
 Reach out to support@bonterms.com.
