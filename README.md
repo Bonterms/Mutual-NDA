@@ -3,10 +3,10 @@ Mutual Non-Disclosure Agreement for enterprise use.
 Balanced between the parties.
 
 ## About Bonterms
-[Bonterms](https://bonterms.com/) is simplifying commercial contracting through Standard Agreements. Our enterprise Cloud Terms (with DPA and SLA Attachments), Professional Services Agreement (PSA) and Mutual NDA let the parties start from a balanced foundation and negotiate by Cover Page, not redlines. The Bonterms Platform will leverage our Standard Agreements to take collaborative dealmaking to the next level. Bonterms is lawyer-led and funded by XYZ Capital and Wilson Sonsini.
+[Bonterms](https://bonterms.com/) is simplifying commercial contracting through Standard Agreements. Our [Standard Agreements](https://bonterms.com/#standard-agreements) let the parties start from a balanced foundation and negotiate by Cover Page, not redlines. The [Bonterms Platform](https://bonterms.com/platform/) leverages our Standard Agreements to take collaborative dealmaking to the next level. Bonterms is lawyer-led and funded by XYZ Capital and Wilson Sonsini.
 
 ## How the Mutual NDA was Created
-The Mutual NDA was drafted by the [Bonterms Open Source Forms Committee](https://bonterms.com/committee/), progressing through four drafts over three months.
+The Mutual NDA was drafted by the [Bonterms Standard Agreement Committee](https://bonterms.com/committee/), progressing through four drafts over three months.
 
 ## How to Use
 1. **Review** the NDA with your lawyer.
